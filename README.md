@@ -2,7 +2,7 @@
 
 - 🔭 Hoje eu trabalho com suporte TI
 - 🌱 Estudante de Javascript
-- 😄 Pronouns: ela/dela
+- 😄 Pronouns: deve/loper
 
 <div align="center">
   <a href="https://github.com/MarysolHelena">
