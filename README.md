@@ -1,7 +1,7 @@
 ## Hello world! Eu sou a Marysol.
 
 - 🔭 Hoje eu trabalho com suporte TI
-- 🌱 Estudante de Javascript
+- 🌱 Terceiro periodo de Análise e Desenvolvimento de Sistemas 
 
 <div align="center">
   <a href="https://github.com/MarysolHelena">
