@@ -1,7 +1,8 @@
 ## Hello world! Eu sou a Marysol.
 
-- 🔭 Hoje eu trabalho com suporte TI
-- 🌱 Terceiro periodo de Análise e Desenvolvimento de Sistemas 
+- 🔭 Desenvolvedora Front-end
+- 💻 Estágiaria em Salesforce na Globant.
+- 🌱 Quarto periodo de Análise e Desenvolvimento de Sistemas 
 
 <div align="center">
   <a href="https://github.com/MarysolHelena">
