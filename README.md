@@ -1,4 +1,4 @@
-##                                                                              Hi, i'm Marysol 
+## Hi, i'm Marysol 
 
 - 🔭 Desenvolvedora Front-end
 - 💻 Estágiaria em Salesforce na Globant.
