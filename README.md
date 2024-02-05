@@ -1,23 +1,28 @@
 # 👋 Olá, sou Marysol!
 
-## 🚀 Desenvolvedora Front-end | Estagiária em Salesforce na Globant | Análise e Desenvolvimento de Sistemas
+## 🚀 Desenvolvedora Front-end | Desenvolvedora Salesforce na Globant | Análise e Desenvolvimento de Sistemas
 
 ### Sobre mim
 - Apaixonada por transformar ideias em código e criar experiências incríveis.
-- Atualmente estagiando em Salesforce na Globant.
-- No quarto período do curso de Análise e Desenvolvimento de Sistemas.
+- Atualmente efetivada na Globant, atuando como Desenvolvedora Salesforce.
+
+### 💼 Experiência Profissional
+- Trabalhando em um projeto empolgante para uma grande rede de supermercados, desenvolvendo o chatbot de atendimento usando Salesforce e Enhanced. Além disso, contribuí para a área de qualidade de software.
 
 ### 🛠️ Habilidades
-- JavaScript | HTML5 | CSS3 | Salesforce
-
-### 🌱 Aprendendo Atualmente
-- Explorando [Tecnologia X] e [Framework Y].
+- JavaScript | HTML5 | CSS3 | Node.js | Sass
+- Tecnologias em foco: Next.js | Tailwind CSS | React
+- Diariamente trabalhando com Salesforce, explorando lógica de Flows, Triggers e o Mobile SDK.
 
 ### 🚀 Projetos Destacados
-- [Projeto A](link_projeto_a)
-- [Projeto B](link_projeto_b)
+- Desenvolvendo um app de linha do tempo como parte do curso da Rocketseat. Desafiador e gratificante!
+- Em constante evolução do meu [portfolio](seu_link_portfolio) - confira as versões mais recentes!
 
-### 📊 Estatísticas
+### 🌱 Aprendendo Atualmente
+- Explorando o desenvolvimento mobile e web com foco em frontend.
+- Estudo contínuo de TypeScript, React Native, React e aspirações para desenvolver habilidades em Angular.
+
+### 📊 Stats
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarysolHelena&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarysolHelena&layout=compact&langs_count=7&theme=synthwave"/>
@@ -25,7 +30,6 @@
 
 ### 🌈 Contatos
 - [Instagram](https://www.instagram.com/helenagstark/)
-- [Twitch](https://www.twitch.tv/settings/profile)
 - [Discord](https://discord.com/channels/@me)
 - [E-mail](mailto:marysolgomesm@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/maysol-helena-mattosinho-867ba1bb/)
