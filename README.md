@@ -1,8 +1,8 @@
 # 👋 Olá, sou Marysol!
 
-## 🚀 Desenvolvedora Front-end | Desenvolvedora Salesforce na Globant |
+## 🚀 Desenvolvedora Front-end | Desenvolvedora Salesforce na Globant
 
-🎓 Análise e Desenvolvimento de Sistemas
+### 🎓 Análise e Desenvolvimento de Sistemas
 
 ### Sobre mim
 - Apaixonada por transformar ideias em código e criar experiências incríveis.
