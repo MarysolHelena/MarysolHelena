@@ -18,7 +18,7 @@
 
 ### 🚀 Projetos Destacados
 - Desenvolvendo um app de linha do tempo como parte do curso da Rocketseat. Desafiador e gratificante!
-- Em constante evolução do meu [portfolio](seu_link_portfolio) - confira as versões mais recentes!
+- Em constante evolução do meu [portfolio](https://marysolhelena.github.io/portfolio-marysol-dev/).
 
 ### 🌱 Aprendendo Atualmente
 - Explorando o desenvolvimento mobile e web com foco em frontend.
