@@ -6,7 +6,7 @@
 - **Análise e Desenvolvimento de Sistemas**
 
 ### Sobre mim
-Sou uma desenvolvedora apaixonada e proativa, dedicada a transformar ideias em soluções digitais eficientes e intuitivas. Atualmente, atuo como QA na Globant, contribuindo para projetos inovadores que apoiam o empreendedorismo. Além disso, sou fotógrafa nas horas livres, capturando momentos e histórias que inspiram.
+Sou uma desenvolvedora apaixonada e proativa, dedicada a transformar ideias em soluções digitais eficientes e intuitivas. Atualmente, atuo como QA e UX Salesforce na Globant.
 
 ### 💼 Experiência
 - **QA em Projetos de Apoio ao Empreendedorismo**: Com um papel ativo na garantia de qualidade de software, estou comprometida em aprimorar continuamente as interfaces e a experiência do usuário em soluções que fazem a diferença para pequenos negócios.
